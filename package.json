@@ -1,0 +1,8 @@
+{
+  "name": "bk-http-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:braydenk/bk-http-lib.git",
+  "author": "Brayden Killeen <braydenmkilleen@gmail.com> (http://braydenkilleen.com/)",
+  "license": "MIT"
+}
